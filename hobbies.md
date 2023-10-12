@@ -12,6 +12,5 @@ title: Hobbies
 
 <br>I was a member of the Swimming Team at TONGJI University.
 
-<div>
-<img src="/images/fb.PNG">
-</div>
+![fb](images/fb.png)
+
